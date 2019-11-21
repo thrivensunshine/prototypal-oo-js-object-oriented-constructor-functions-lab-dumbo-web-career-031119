@@ -1,4 +1,5 @@
-function Scooter(driver, pickupLoaction){
-  this.driver = driver,
-  this.pickupLoaction = pickupLoaction
+function Scooter(year,color, model){
+  this.year = year,
+  this.color = color,
+  this.model = model
 }
